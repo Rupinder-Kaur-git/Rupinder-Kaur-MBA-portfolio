@@ -1,0 +1,36 @@
+---
+title: ""
+toc: false
+page-layout: full
+---
+
+<div class="page-content">
+
+<div class="hero">
+  <div>
+![](assets/images/profile.jpg){.avatar}
+  </div>
+  <div>
+# Rupinder Kaur
+### A Bit About Me
+I am an MBA student at UCW (Vancouver) and an opening shift lead at Firehouse Subs, Tsawwassen.
+I enjoy fast-paced teamwork, hospitality, and process-driven operations that deliver a great guest experience.
+  </div>
+</div>
+
+<div class="grid-2" style="margin-top:1.2rem;">
+  <div class="card">
+  ## Highlights
+  - Opening shift lead: execute checklist-driven open, delegate prep, verify food safety & labeling.
+  - Customer-first service: handle POS, resolve issues quickly, and support teammates under pressure.
+  - Reliable and punctual: consistent store readiness before the first lunch rush.
+  </div>
+  <div class="card">
+  ## Quick Stats
+  - **Location:** Vancouver, BC
+  - **Program:** MBA at UCW
+  - **Current role:** Opening Shift Lead, Firehouse Subs (Tsawwassen)
+  </div>
+</div>
+
+</div>

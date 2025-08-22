@@ -1,0 +1,15 @@
+---
+title: "Contact"
+---
+
+<div class="card">
+  <h3 class="fw-semibold mb-3">Email</h3>
+  <p><a href="mailto:rupinderkaursandhu05@gmail.com">rupinderkaursandhu05@gmail.com</a></p>
+  <a class="btn btn-primary" href="mailto:rupinderkaursandhu05@gmail.com?subject=Hello%20Rupinder">Email Me</a>
+</div>
+
+<div class="card" style="margin-top:1rem;">
+  <h3 class="fw-semibold mb-3">Resume</h3>
+  <p>Prefer a PDF?</p>
+  <a class="btn btn-outline-dark" href="assets/pdf/rupinder_kaur_resume.pdf" target="_blank" download>Download Resume</a>
+</div>

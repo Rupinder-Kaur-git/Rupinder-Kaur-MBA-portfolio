@@ -1,0 +1,17 @@
+project:
+  type: website
+  render:
+    - "*.qmd"
+
+website:
+  title: "Rupinder Kaur — MBA Portfolio"
+  page-footer:
+    center: "©2025 Rupinder Kaur"
+    right: "Built with Quarto"
+  search: true
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    include-before-body: includes/header.html

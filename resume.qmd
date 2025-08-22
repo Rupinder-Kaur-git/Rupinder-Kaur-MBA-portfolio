@@ -1,0 +1,28 @@
+---
+title: "Resume / CV"
+---
+
+**Rupinder Kaur**  
+MBA Program — UCW, Vancouver  
+**Email:** <rupinderkaursandhu05@gmail.com>
+
+<div class="card" style="margin:1rem 0;">
+  <strong>Download:</strong>
+  <a class="btn btn-outline-dark" href="assets/pdf/rupinder_kaur_resume.pdf" target="_blank" download>Resume (PDF)</a>
+</div>
+
+## Experience
+### Firehouse Subs, Tsawwassen — Opening Shift Lead
+- Food handling and preparation (meat slicing/weighing, ingredient prep, sandwich assembly).
+- Store sanitation and organization; ensure food labeling and storage.
+- POS operation for orders and payments; end-of-shift cash reconciliation.
+- Morning open via checklist; train/coordinate teammates on standards.
+- Maintain consistent presentation and guest experience.
+
+## Education
+- **MBA** — University Canada West (UCW), Vancouver
+
+## Skills (selected)
+- Customer service, Problem-solving, Teamwork, Time management, Reliability & punctuality  
+- POS systems, cash handling, checklists, sanitation  
+- Food safety awareness, labeling, and presentation standards

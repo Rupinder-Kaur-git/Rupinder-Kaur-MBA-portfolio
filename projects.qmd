@@ -1,0 +1,15 @@
+---
+title: "Projects & Case Studies"
+---
+
+### Leadership in Quick Service — Firehouse Subs (Tsawwassen)
+![Firehouse Subs storefront](https://cdn.sanity.io/images/czqk28jt/prod_fhs_ca/6f50def84fcdd61fd71918d97c53881f9e2e098e-1014x542.jpg?w=897&q=80&fit=max&auto=format){.rounded-xl fig-alt="Firehouse Subs storefront"}
+
+**Context.** Busy lunchtime traffic with strict opening SLAs.  
+**Role.** Opening shift lead coordinating prep, food safety checks, and first‑hour throughput.  
+**Actions.**
+- Checklist-driven open (equipment warm-up, line setup, temp checks)
+- Delegated prep by station; verified labeling & FIFO rotation
+- Managed front counter & POS, resolved order issues, supported new staff
+
+**Outcome.** Reliable open, fewer reworks, smoother guest flow at peak.

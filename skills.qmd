@@ -1,0 +1,17 @@
+---
+title: "Skills & Certifications"
+---
+
+<div class="card">
+  <h3>Core Interpersonal</h3>
+  <ul>
+    <li>Exceptional customer service, problem-solving, teamwork, time management, reliability & punctuality</li>
+  </ul>
+</div>
+
+<div class="card" style="margin-top:1rem;">
+  <h3>Operations & Tools</h3>
+  <ul>
+    <li>POS systems, cash handling, prep & presentation standards, sanitation & labeling, checklist-driven operations</li>
+  </ul>
+</div>
